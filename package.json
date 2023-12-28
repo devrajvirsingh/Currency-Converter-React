@@ -1,5 +1,5 @@
 {
-  "homepage": "https//devrajvirsingh.github.io/CurrencyConverter",
+  "homepage": "https//devrajvirsingh.github.io/Currency-Converter-React",
   "name": "currencyconverter",
   "private": true,
   "version": "0.0.0",
@@ -13,6 +13,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "gh-pages": "^6.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
